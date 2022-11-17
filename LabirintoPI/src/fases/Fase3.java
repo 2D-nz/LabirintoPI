@@ -17,7 +17,7 @@ public class Fase3 {
             charada = input.nextInt();
 
             if(charada == 2) {
-                retorno = "Você sabia? A Lua é um satélite natural da Terra.\nAh, e se quiser avançar mais saiba que é melhor subir 2x\nSó não lembro se é pela esquerda ou direita...";
+                retorno = "Você sabia? A Lua é um satélite natural da Terra.\nAh, e se quiser avançar mais saiba que \nOs opostos se atraem, como o começo e o fim";
                 i = 4;}
             else {
                 i++;
